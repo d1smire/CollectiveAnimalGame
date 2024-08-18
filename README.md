@@ -1,12 +1,12 @@
 ## Collective animals game
 
 <p align="center">
-<img src="https://i.ibb.co/VYggz1L/Game2-Logo.png" width="300px">
+<img src="" width="300px">
 </p>
 
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Engine%20-Unity%202022.3.35f1-purple">
-<img alt="Static Badge" src="https://img.shields.io/badge/Version%20-0.1.0%20(Alpha)-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Version%20-0.0.9%20(Alpha)-blue">
 </p>
 
 ### About
